@@ -8,7 +8,7 @@ For a detailed description of the task, see the following article and its supple
 
 ➔ Szücs A, Wright AG, Edershile EA, Dombrovski AY, Rivalry and admiration-seeking in a social competition: from traits to behaviors through contextual cues. Accepted by Personality Disorders: Theory, Research, and Treatment.
 
-Competitive behaviors are measured by 2 distinct outcome measures:
+Competitive behaviors are captured using 2 distinct outcome measures:
 
 • outcome measure 1 – apple/point stealing – behavioral rivalry: on each trial, before competing, participants can choose to steal points from their assigned opponent’s score on that trial.
 
