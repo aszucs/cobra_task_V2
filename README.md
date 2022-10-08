@@ -24,4 +24,4 @@ Warning: Do not put its content into MATLAB’s folder; anywhere else is fine.
 
 [4]	To run the task, open the file *main_game_launcher.m* with MATLAB (right click -> Open with -> MATLAB), and simply click “run” from the MATLAB editor window (green arrowhead in the upper menu). If prompted by MATLAB, select the "Change Folder" option.
 
-[4]	Further instructions, troubleshooting tips and a codebook to measured variables can be found in the **user manual**.
+Further instructions, troubleshooting tips, and a codebook to measured variables can be found in the **user manual**.
